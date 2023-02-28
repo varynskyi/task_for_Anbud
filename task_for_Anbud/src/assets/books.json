@@ -1,0 +1,10 @@
+{
+    "data": [
+        {"num": "1", "name": "name1", "price": 10, "author": "author1"},
+        {"num": "2", "name": "name2", "price": 15, "author": "author2"},
+        {"num": "3", "name": "name3", "price": 20, "author": "author3"},
+        {"num": "4", "name": "name4", "price": 25, "author": "author4"},
+        {"num": "5", "name": "name5", "price": 30, "author": "author4"},
+        {"num": "6", "name": "name6", "price": 35, "author": "author4"}        
+    ]
+}
